@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Configuration",""]],"fn":[["initialize","Initializes communication and executes a distributed computation."]],"struct":[["WorkerGuards",""]]});
